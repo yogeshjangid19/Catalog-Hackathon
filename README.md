@@ -8,8 +8,7 @@ Ensure the solution.js file contains the code for processing and calculating the
 
 Step 2 : Modify the testCase variable in solution.js with your input data in JSON format.
 
-Step 3 : Command to run
-solution.js
+Step 3 : node solution.js
 
 
 
